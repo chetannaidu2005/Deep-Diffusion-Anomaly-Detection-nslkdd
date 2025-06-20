@@ -4,7 +4,7 @@ This repository presents a custom-built anomaly detection pipeline using deep di
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 - Built a custom deep diffusion model from scratch for detecting anomalies in network traffic data.
 - Developed a complete preprocessing pipeline including encoding, scaling, and binary labeling.
 - Optimized denoising diffusion probabilistic modeling (DDPM) for discrete, high-dimensional cybersecurity data representations.
@@ -13,7 +13,7 @@ This repository presents a custom-built anomaly detection pipeline using deep di
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 deep-diffusion-anomaly-detection-nslkdd/
@@ -31,14 +31,14 @@ deep-diffusion-anomaly-detection-nslkdd/
 
 ---
 
-## 📥 Dataset Download
+##  Dataset Download
 
 🔗 Official Dataset Page: **https://www.kaggle.com/datasets/hassan06/nslkdd**  
-📁 After download, place the dataset files into the `data/` directory.
+   After download, place the dataset files into the `data/` directory.
 
 ---
 
-## ▶️ Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -59,15 +59,15 @@ jupyter notebook NSL_VER2_2_mark2.ipynb
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 - **Metrics:** Accuracy, Precision, Recall, F1-Score, ROC-AUC
 - **Outputs:** Confusion matrix, anomaly score plots, visualizations, diffusion model
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Pushpal Chetan Naidu**  
-📧 chetannaidu2005@gmail.com
+  chetannaidu2005@gmail.com
 
