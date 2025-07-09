@@ -10,6 +10,7 @@ This project was developed as a collaborative effort by students enrolled in the
 
 These contributors played a key role in building the project, which aims to detect anomalies in a network using diffusion model
 
+
 # Deep Diffusion Anomaly Detection on NSL-KDD Dataset
 
 This repository presents a custom-built anomaly detection pipeline using deep diffusion models applied to the NSL-KDD dataset — a widely used benchmark for network intrusion detection. The solution is implemented entirely from scratch without relying on third-party diffusion libraries.
