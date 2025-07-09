@@ -1,3 +1,15 @@
+## Contributors and Owners
+
+This project was developed as a collaborative effort by students enrolled in the Deep neural networks course. The main contributors are:
+
+- **P. Chetan Naidu**  
+  GitHub: [https://github.com/chetannaidu2005](https://github.com/chetannaidu2005)
+
+- **Rahul Kaja**  
+  GitHub: [https://github.com/rahulkaja](https://github.com/rahulkaja)
+
+These contributors played a key role in building the project, which aims to detect anomalies in a network using diffusion model
+
 # Deep Diffusion Anomaly Detection on NSL-KDD Dataset
 
 This repository presents a custom-built anomaly detection pipeline using deep diffusion models applied to the NSL-KDD dataset — a widely used benchmark for network intrusion detection. The solution is implemented entirely from scratch without relying on third-party diffusion libraries.
